@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salonpal-frontend/static/css/main.c8bf6298.css",
+    "main.js": "/salonpal-frontend/static/js/main.99919d3a.js",
+    "index.html": "/salonpal-frontend/index.html",
+    "main.c8bf6298.css.map": "/salonpal-frontend/static/css/main.c8bf6298.css.map",
+    "main.99919d3a.js.map": "/salonpal-frontend/static/js/main.99919d3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8bf6298.css",
+    "static/js/main.99919d3a.js"
+  ]
+}

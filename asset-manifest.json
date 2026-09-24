@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/salonpal-frontend/static/css/main.d83b28aa.css",
-    "main.js": "/salonpal-frontend/static/js/main.7cdf1720.js",
+    "main.css": "/salonpal-frontend/static/css/main.d41ecdf7.css",
+    "main.js": "/salonpal-frontend/static/js/main.dd16a5a2.js",
     "index.html": "/salonpal-frontend/index.html",
-    "main.d83b28aa.css.map": "/salonpal-frontend/static/css/main.d83b28aa.css.map",
-    "main.7cdf1720.js.map": "/salonpal-frontend/static/js/main.7cdf1720.js.map"
+    "main.d41ecdf7.css.map": "/salonpal-frontend/static/css/main.d41ecdf7.css.map",
+    "main.dd16a5a2.js.map": "/salonpal-frontend/static/js/main.dd16a5a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d83b28aa.css",
-    "static/js/main.7cdf1720.js"
+    "static/css/main.d41ecdf7.css",
+    "static/js/main.dd16a5a2.js"
   ]
 }
